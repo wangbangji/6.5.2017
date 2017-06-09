@@ -1,0 +1,6 @@
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\bin\Debug\ExpressionAndStatementDemo.exe.config
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\bin\Debug\ExpressionAndStatementDemo.exe
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\bin\Debug\ExpressionAndStatementDemo.pdb
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\obj\Debug\ExpressionAndStatementDemo.csprojResolveAssemblyReference.cache
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\obj\Debug\ExpressionAndStatementDemo.exe
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\ExpressionAndStatementDemo\ExpressionAndStatementDemo\obj\Debug\ExpressionAndStatementDemo.pdb

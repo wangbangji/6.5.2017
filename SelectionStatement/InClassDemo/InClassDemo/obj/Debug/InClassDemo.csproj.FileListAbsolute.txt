@@ -1,0 +1,6 @@
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\bin\Debug\InClassDemo.exe.config
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\bin\Debug\InClassDemo.exe
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\bin\Debug\InClassDemo.pdb
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\obj\Debug\InClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\obj\Debug\InClassDemo.exe
+C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\6.5.2017\6.5\Thursday\Demo\InClassDemo\InClassDemo\obj\Debug\InClassDemo.pdb
